@@ -1,0 +1,14 @@
+<note>
+  <to hello="haha" mira="soso">Tove</to>
+  <from>
+    From
+    <first_name width="10px">Jani
+    </first_name>
+    <last_name>Natsheh</last_name>
+  </from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note>
+
+
+['' , 'hello', 'haha', '']
